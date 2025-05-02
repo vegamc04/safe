@@ -5,6 +5,8 @@
 
 ![arduino](../media/svg/arduino_icon.svg)
 
+# Caja fuerte
+
 Proyecto desarrollado con [Arduino](https://www.arduino.cc/)
 
 ## Componentes utilizados
